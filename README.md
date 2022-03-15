@@ -1,3 +1,4 @@
+<h1 align="center">Hi there, I am Toufik 👋</h1>
 # Hi there, I am Toufik 👋
 
 #### Junior Developper Ruby and RoR in Lyon. 

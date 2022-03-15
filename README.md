@@ -6,7 +6,7 @@
 🔭 I started coding as a self-taught person and then I joined [lewagon](https://www.lewagon.com "lewagon home")'s Web Developper Bootcamp and embraced the path of coding full time
 <br />
 ## 🌱 I’m currently learning:
-
+<br />
 - Improving skills on using Rails ( "No pain No gain" ) 😄
 - Vanilla JavaScript
 - REACT framework for front and NextJs 

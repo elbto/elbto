@@ -1,6 +1,6 @@
 # Hi there, I am Toufik 👋
 
-Junior Developper Ruby and RoR in Lyon. 
+#### Junior Developper Ruby and RoR in Lyon. 
 
 🔭 I started coding as a self-taught person and then I joined [lewagon](https://www.lewagon.com "lewagon home")'s Web Developper Bootcamp and embraced the path of coding full time
 

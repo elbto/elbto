@@ -1,4 +1,4 @@
-### Hi there, I am Toufik 👋
+# Hi there, I am Toufik 👋
 
 Junior Developper Ruby and RoR in Lyon. 
 

@@ -1,8 +1,15 @@
 ### Hi there, I am Toufik 👋
 
-🌱 Junior Developper Ruby and RoR in Lyon. 
+Junior Developper Ruby and RoR in Lyon. 
 
-🔭 I started coding as a self-taught person and then I joined [lewagon](https://www.lewagon.com "lewagon home") and embraced the path of coding full time
+🔭 I started coding as a self-taught person and then I joined [lewagon](https://www.lewagon.com "lewagon home")'s Web Developper Bootcamp and embraced the path of coding full time
+
+## 🌱 I’m currently learning:
+
+- Improving skills on using Rails ( "No pain No gain" ) 😄
+- Vanilla JavaScript
+- REACT framework for front and NextJs 
+
 <!--
 **elbto/elbto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

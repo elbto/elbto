@@ -7,7 +7,6 @@
 <br />
 ## 🌱 I’m currently learning:
 - Java / spring /angular
-- Python / Django*
 - Improving skills
 
 
